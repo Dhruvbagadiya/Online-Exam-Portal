@@ -13,29 +13,29 @@ Maybe you can mention me or this repo in the acknowledgements too
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/chintan-golakiya/online-exam-portal" alt="contributors" />
+  <a href="https://github.com//online-exam-portal/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Dhruvbagadiya/online-exam-portal" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/chintan-golakiya/online-exam-portal" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/Dhruvbagadiya/online-exam-portal" alt="last update" />
   </a>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/network/members">
-    <img src="https://img.shields.io/github/forks/chintan-golakiya/online-exam-portal" alt="forks" />
+  <a href="https://github.com/Dhruvbagadiya/online-exam-portal/network/members">
+    <img src="https://img.shields.io/github/forks/Dhruvbagadiya/online-exam-portal" alt="forks" />
   </a>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/stargazers">
-    <img src="https://img.shields.io/github/stars/chintan-golakiya/online-exam-portal" alt="stars" />
+  <a href="https://github.com/Dhruvbagadiya/online-exam-portal/stargazers">
+    <img src="https://img.shields.io/github/stars/Dhruvbagadiya/online-exam-portal" alt="stars" />
   </a>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">
-    <img src="https://img.shields.io/github/issues/chintan-golakiya/online-exam-portal" alt="open issues" />
+  <a href="https://github.com/Dhruvbagadiya/online-exam-portal/issues/">
+    <img src="https://img.shields.io/github/issues/Dhruvbagadiya/online-exam-portal" alt="open issues" />
   </a>
 </p>
    
 <h4>
-    <a href="https://chintan-golakiya.github.io/online-exam-portal-frontend/">View Demo</a>
+    <a href="https://Dhruvbagadiya.github.io/online-exam-portal-frontend/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">Report Bug</a>
+    <a href="https://github.com/Dhruvbagadiya/online-exam-portal/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">Request Feature</a>
+    <a href="https://github.com/Dhruvbagadiya/online-exam-portal/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -134,7 +134,7 @@ This project uses MongoDB as database. please install mongodb server in local en
 Clone the project
 
 ```bash
-  git clone https://github.com/chintan-golakiya/online-exam-portal.git
+  https://github.com/Dhruvbagadiya/Online-Exam-Portal.git
 ```
 
 Go to the project directory
@@ -204,40 +204,7 @@ Use following paths
   <li> add more features </li>
   </ul>
  
-<!-- Contributing -->
-## :wave: Contributing
-
-<a href="https://github.com/chintan-golakiya/online-exam-portal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=chintan-golakiya/online-exam-portal" />
-</a>
-
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
 
 
 
-
-<!-- License -->
-## :warning: License
-
-Distributed under the no License. 
-
-
-<!-- Contact -->
-## :handshake: Contact
-
-Chintan Golakiya - [@_chint4n_](https://twitter.com/_chint4n_) - golakiyachintan24@gmail.com
-
-Project Link: [https://github.com/chintan-golakiya/online-exam-portal](https://github.com/chintan-golakiya/online-exam-portal)
-
-
-<!-- Acknowledgments -->
-## :gem: Acknowledgements
-Following libraries have been used in this projects.
-
- - [Material UI](https://www.mui.com)
- - [Passport JS](https://www.passportjs.org/)
- - [Awesome Readme Template](https://github.com/Louis3797/awesome-readme-template)
 
